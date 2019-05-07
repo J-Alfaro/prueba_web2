@@ -154,6 +154,7 @@
     <Compile Include="App_Start\RouteConfig2.cs" />
     <Compile Include="App_Start\RouteConfig3.cs" />
     <Compile Include="Controllers\Demo2Controller.cs" />
+    <Compile Include="Controllers\Demo3Controller.cs" />
     <Compile Include="Controllers\DemoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -203,6 +204,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Demo2\Index.cshtml" />
     <Content Include="Views\Demo\Index.cshtml" />
+    <Content Include="Views\Demo3\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
