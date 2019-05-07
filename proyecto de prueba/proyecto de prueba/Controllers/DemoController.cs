@@ -13,5 +13,9 @@ namespace proyecto_de_prueba.Controllers
         {
             return View();
         }
+        public ActionResult Inde2x()
+        {
+            return View();
+        }
     }
 }
